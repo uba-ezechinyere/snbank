@@ -1,0 +1,14 @@
+[
+  {
+    "username": "kunle.o",
+    "password": "ko1234",
+    "email": "kunle.oye@hng.com",
+    "fullname": "kunle oye"
+  },
+  {
+    "username": "stanley.e",
+    "password": "se1234",
+    "email": "stanley.eyinka@hng.com",
+    "fullname": "stanley eyinka"
+  }
+]
