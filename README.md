@@ -1,1 +1,2 @@
 # snbank
+The SNBank App, is console Application that handles the process of verification already created/ existing members of staff whose primary task is to handle the Creation of New Account numbers for Customers who have filled the Account opening form and have made certain deposites to bring the account to live. All information is stored in our database (which includesstaff and customer details in the separate folders) staff.txt and a customer.txt file.
